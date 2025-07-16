@@ -2,6 +2,12 @@
 
 Projeto de uma biblioteca de filmes desenvolvido durante o curso "React do zero a maestria" da Udemy. A aplicação utiliza a API do The Movie Database (TMDB) para exibir os filmes mais bem avaliados, permitir a busca por filmes e visualizar detalhes de cada um.
 
+## Deploy
+
+A aplicação está disponível para acesso no seguinte link:
+
+**[Acessar a Aplicação](https://tmdb-react-theta.vercel.app/)**
+
 ## Funcionalidades
 
 * **Listagem de Filmes:** Exibe uma lista dos filmes mais bem avaliados da atualidade.
